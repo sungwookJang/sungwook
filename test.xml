@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Members>
+  <Member>
+    <MemberName>테스트 이름</MemberName>
+    <MemberSNum>테스트 학번</MemberSNum>
+    <MemberID>테스트 아이디</MemberID>
+    <MemberPW>테스트 비번</MemberPW>
+    <MemberE-Mail>테스트 이메일</MemberE-Mail>
+  </Member>
+  <Member>
+    <MemberName>테스트 이름</MemberName>
+    <MemberSNum>테스트 학번</MemberSNum>
+    <MemberID>테스트 아이디</MemberID>
+    <MemberPW>테스트 비번</MemberPW>
+    <MemberE-Mail>테스트 이메일</MemberE-Mail>
+  </Member>
+  <Member>
+    <MemberName>테스트 이름</MemberName>
+    <MemberSNum>테스트 학번</MemberSNum>
+    <MemberID>테스트 아이디</MemberID>
+    <MemberPW>테스트 비번</MemberPW>
+    <MemberE-Mail>테스트 이메일</MemberE-Mail>
+  </Member>
+</Members>
